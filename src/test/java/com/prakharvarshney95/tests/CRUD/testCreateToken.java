@@ -1,5 +1,8 @@
 package com.prakharvarshney95.tests.CRUD;
 
-public class testCreateBooking {
+public class testCreateToken {
+    //All the positive & negative test cases of Token
+
+
     
 }

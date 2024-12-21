@@ -4,32 +4,151 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b04ef82-7cea-4672-ae64-a022a757099b" name="Changes" comment="" />
+    <list default="true" id="4b04ef82-7cea-4672-ae64-a022a757099b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/endpoints/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/modules/PayloadManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/pojos/Auth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/pojos/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/pojos/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/pojos/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/pojos/TokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/asserts/AssertActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/tests/CRUD/testCreateBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/tests/CRUD/testCreateToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/tests/sample/TestIntegrationSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_prod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_smoke.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2qQazokOmtrYu2rQ6inXKk3MZXD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x/testng.xml.executor": "Run",
+    "TestNG.C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x/testng_qa.xml.executor": "Run",
+    "TestNG.testCreateBooking.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prakhar Varshney\IdeaProjects\APIAutomationFrameworkATB9x" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Prakhar Varshney\IdeaProjects\APIAutomationFrameworkATB9x\src\main\java\com\prakharvarshney95\endpoints\modules" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.prakharvarshney95.tests.CRUD" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.testCreateBooking">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakharvarshney95.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prakharvarshney95" />
+      <option name="MAIN_CLASS_NAME" value="com.prakharvarshney95.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x/testng_qa.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkATB9x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_qa.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkATB9x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCreateBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prakharvarshney95.tests.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prakharvarshney95.tests.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.prakharvarshney95.tests.CRUD.testCreateBooking" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.testCreateBooking" />
+        <item itemvalue="TestNG.C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x/testng_qa.xml" />
+        <item itemvalue="TestNG.C:/Users/Prakhar Varshney/IdeaProjects/APIAutomationFrameworkATB9x/testng.xml" />
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
