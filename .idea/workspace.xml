@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b04ef82-7cea-4672-ae64-a022a757099b" name="Changes" comment="Code till 18dec">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/tests/Integration/TestIntegrationFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prakharvarshney95/modules/PayloadManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prakharvarshney95/base/BaseTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4b04ef82-7cea-4672-ae64-a022a757099b" name="Changes" comment="Code till 19th dec" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,11 +172,20 @@
       <option name="project" value="LOCAL" />
       <updated>1734768661718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code till 19th dec">
+      <option name="closed" value="true" />
+      <created>1735112802612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735112802612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code till 18dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code till 18dec" />
+    <MESSAGE value="Code till 19th dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code till 19th dec" />
   </component>
 </project>
